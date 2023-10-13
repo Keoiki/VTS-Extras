@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BossBulletScatter.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BossBulletScatter0000" x="0" y="174" width="78" height="71" frameX="0" frameY="-4" frameWidth="78" frameHeight="78"/>
+	<SubTexture name="BossBulletScatter0001" x="0" y="174" width="78" height="71" frameX="0" frameY="-4" frameWidth="78" frameHeight="78"/>
+	<SubTexture name="BossBulletScatter0002" x="79" y="174" width="71" height="78" frameX="-4" frameY="0" frameWidth="78" frameHeight="78"/>
+	<SubTexture name="BossBulletScatter0003" x="79" y="174" width="71" height="78" frameX="-4" frameY="0" frameWidth="78" frameHeight="78"/>
+	<SubTexture name="BossBulletScatter0004" x="0" y="96" width="78" height="71" frameX="0" frameY="-4" frameWidth="78" frameHeight="78"/>
+	<SubTexture name="BossBulletScatter0005" x="0" y="96" width="78" height="71" frameX="0" frameY="-4" frameWidth="78" frameHeight="78"/>
+	<SubTexture name="BossBulletScatter0006" x="151" y="174" width="71" height="78" frameX="-4" frameY="0" frameWidth="78" frameHeight="78"/>
+	<SubTexture name="BossBulletScatter0007" x="151" y="174" width="71" height="78" frameX="-4" frameY="0" frameWidth="78" frameHeight="78"/>
+	<SubTexture name="BossBulletScatterExplosion0000" x="106" y="91" width="91" height="82" frameX="-8" frameY="-6" frameWidth="105" frameHeight="95"/>
+	<SubTexture name="BossBulletScatterExplosion0001" x="106" y="91" width="91" height="82" frameX="-8" frameY="-6" frameWidth="105" frameHeight="95"/>
+	<SubTexture name="BossBulletScatterExplosion0002" x="106" y="0" width="101" height="90" frameX="-3" frameY="-3" frameWidth="105" frameHeight="95"/>
+	<SubTexture name="BossBulletScatterExplosion0003" x="106" y="0" width="101" height="90" frameX="-3" frameY="-3" frameWidth="105" frameHeight="95"/>
+	<SubTexture name="BossBulletScatterExplosion0004" x="0" y="0" width="105" height="95"/>
+	<SubTexture name="BossBulletScatterExplosion0005" x="0" y="0" width="105" height="95"/>
+</TextureAtlas>

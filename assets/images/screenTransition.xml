@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="screenTransition.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="screenTransition0000" x="0" y="0" width="1300" height="740"/>
+	<SubTexture name="screenTransition0001" x="0" y="0" width="1300" height="740"/>
+	<SubTexture name="screenTransition0002" x="1301" y="0" width="1300" height="740"/>
+	<SubTexture name="screenTransition0003" x="1301" y="0" width="1300" height="740"/>
+	<SubTexture name="screenTransition0004" x="2602" y="0" width="1300" height="740"/>
+	<SubTexture name="screenTransition0005" x="2602" y="0" width="1300" height="740"/>
+	<SubTexture name="screenTransition0006" x="0" y="741" width="1300" height="740"/>
+	<SubTexture name="screenTransition0007" x="0" y="741" width="1300" height="740"/>
+	<SubTexture name="screenTransition0008" x="0" y="0" width="1300" height="740"/>
+	<SubTexture name="screenTransition0009" x="0" y="0" width="1300" height="740"/>
+	<SubTexture name="screenTransition0010" x="1301" y="0" width="1300" height="740"/>
+	<SubTexture name="screenTransition0011" x="1301" y="0" width="1300" height="740"/>
+	<SubTexture name="screenTransition0012" x="1301" y="741" width="1300" height="740"/>
+	<SubTexture name="screenTransition0013" x="1301" y="741" width="1300" height="740"/>
+	<SubTexture name="screenTransition0014" x="0" y="741" width="1300" height="740"/>
+	<SubTexture name="screenTransition0015" x="0" y="741" width="1300" height="740"/>
+</TextureAtlas>

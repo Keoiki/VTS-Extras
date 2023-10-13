@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pistachio.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PistachioIdle0000" x="0" y="98" width="121" height="96" frameX="0" frameY="0" frameWidth="122" frameHeight="97"/>
+	<SubTexture name="PistachioIdle0001" x="0" y="98" width="121" height="96" frameX="0" frameY="0" frameWidth="122" frameHeight="97"/>
+	<SubTexture name="PistachioIdle0002" x="0" y="0" width="122" height="97"/>
+	<SubTexture name="PistachioIdle0003" x="0" y="0" width="122" height="97"/>
+	<SubTexture name="PistachioIdle0004" x="122" y="98" width="120" height="96" frameX="0" frameY="0" frameWidth="122" frameHeight="97"/>
+	<SubTexture name="PistachioIdle0005" x="122" y="98" width="120" height="96" frameX="0" frameY="0" frameWidth="122" frameHeight="97"/>
+</TextureAtlas>

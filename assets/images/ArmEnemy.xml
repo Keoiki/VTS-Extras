@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ArmEnemy.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BossHandSeparate0000" x="0" y="0" width="142" height="72"/>
+	<SubTexture name="BossHandSeparate0001" x="0" y="0" width="142" height="72"/>
+	<SubTexture name="BossHandSeparate0002" x="0" y="73" width="138" height="72" frameX="-4" frameY="0" frameWidth="142" frameHeight="72"/>
+	<SubTexture name="BossHandSeparate0003" x="0" y="73" width="138" height="72" frameX="-4" frameY="0" frameWidth="142" frameHeight="72"/>
+	<SubTexture name="BossHandSeparate0004" x="0" y="146" width="130" height="72" frameX="-12" frameY="0" frameWidth="142" frameHeight="72"/>
+	<SubTexture name="BossHandSeparate0005" x="0" y="146" width="130" height="72" frameX="-12" frameY="0" frameWidth="142" frameHeight="72"/>
+</TextureAtlas>

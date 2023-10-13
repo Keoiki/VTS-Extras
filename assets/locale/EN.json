@@ -1,0 +1,37 @@
+{
+    "languagename": "English",
+    "version": "Version",
+
+    "play": "Play",
+    "credits": "Credits",
+    "language": "Language",
+    "exit": "Exit",
+
+    "controls": "Controls",
+    "moveleft": "Move Left",
+    "moveright": "Move Right",
+    "moveup": "Move Up",
+    "movedown": "Move Down",
+    "attack01": "Left Mouse Button - Primary Attack",
+    "attack02": "Right Mouse Button - Secondary Attack",
+    "attack03": "Left + Right Mouse Button - Tertiary Attack",
+
+    "difficulty": "Difficulty",
+    "easier": "Easier",
+    "regular": "Regular",
+    "challenging": "Challenging",
+    "painful": "Painful",
+
+    "bossintro01": "Yeargh!",
+    "bossintro02": "Did you really thing it was going to be that easy?",
+    "bossintro03": "Use WASD to move around.",
+    "bossintro04": "Hehehe... enough hints, so let's get started!",
+
+    "stygian01": "You shouldn't have come here.",
+    "stygian02": "Your curiosity led you too far, and now you'll suffer the consequences.",
+    "stygian03": "Too bad your friends aren't here to help you, not that they could do much anyway.",
+    "stygian04": "Noone will hear your anguish in the vast emptiness of space.",
+    "stygian05": "Enough playing around.",
+    "stygian06": "In the end, do you really think you can find your way back home?",
+    "stygian07": "I promise you'll never see light ever again!"
+}

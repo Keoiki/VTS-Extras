@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="VioV4.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BossIdle0000" x="0" y="0" width="225" height="309" frameX="-3" frameY="0" frameWidth="230" frameHeight="315"/>
+	<SubTexture name="BossIdle0001" x="0" y="0" width="225" height="309" frameX="-3" frameY="0" frameWidth="230" frameHeight="315"/>
+	<SubTexture name="BossIdle0002" x="0" y="310" width="224" height="305" frameX="-3" frameY="-2" frameWidth="230" frameHeight="315"/>
+	<SubTexture name="BossIdle0003" x="0" y="310" width="224" height="305" frameX="-3" frameY="-2" frameWidth="230" frameHeight="315"/>
+	<SubTexture name="BossIdle0004" x="226" y="308" width="223" height="307" frameX="-4" frameY="-8" frameWidth="230" frameHeight="315"/>
+	<SubTexture name="BossIdle0005" x="226" y="308" width="223" height="307" frameX="-4" frameY="-8" frameWidth="230" frameHeight="315"/>
+	<SubTexture name="BossIdle0006" x="226" y="0" width="225" height="307" frameX="-3" frameY="-5" frameWidth="230" frameHeight="315"/>
+	<SubTexture name="BossIdle0007" x="226" y="0" width="225" height="307" frameX="-3" frameY="-5" frameWidth="230" frameHeight="315"/>
+	<SubTexture name="BossIdle0008" x="450" y="308" width="228" height="297" frameX="-2" frameY="-1" frameWidth="230" frameHeight="315"/>
+	<SubTexture name="BossIdle0009" x="450" y="308" width="228" height="297" frameX="-2" frameY="-1" frameWidth="230" frameHeight="315"/>
+	<SubTexture name="BossIdle0010" x="452" y="0" width="230" height="294" frameX="0" frameY="0" frameWidth="230" frameHeight="315"/>
+	<SubTexture name="BossIdle0011" x="452" y="0" width="230" height="294" frameX="0" frameY="0" frameWidth="230" frameHeight="315"/>
+</TextureAtlas>
