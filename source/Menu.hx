@@ -54,12 +54,6 @@ class Menu extends FlxState
 			'Deep below Sparklestone Shores, one of\nViolastro\'s old inventions awakens.\nRather quickly a quiz show is setup,\nwith Azura as the contestant.\nShe may not like the prize however..',
 			false);
 		add(quizIcon);
-
-		// var secretTest:FlxSprite = new FlxSprite(10, 500);
-		// secretTest.frames = Paths.getSparrowAtlas("secret/BossSecret");
-		// secretTest.animation.addByPrefix("idle", "Starlis", 24, true);
-		// secretTest.animation.play("idle");
-		// add(secretTest);
 	}
 
 	override function update(elapsed:Float)
