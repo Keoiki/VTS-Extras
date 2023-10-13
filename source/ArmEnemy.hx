@@ -21,7 +21,7 @@ class ArmEnemy extends FlxSprite
 	{
 		immovable = true;
 		frames = Paths.getSparrowAtlas("ArmEnemy");
-		animation.addByPrefix("idle", "BossArmSeperate", 24, true);
+		animation.addByPrefix("idle", "BossHandSeparate", 24, true);
 		animation.play("idle");
 		// flipX = true;
 		setSize(80, 50);
